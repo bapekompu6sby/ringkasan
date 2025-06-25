@@ -121,7 +121,7 @@
                                                 <div class="row d-flex justify-content-between">
                                                     <div class="col-md-6">
                                                         <div class="logo">
-                                                            <a>Balai Pengembangan Kompetensi Pekerjaan Umum Wilayah VI Surabaya</a>
+                                                            <a>Balai Pengembangan Kompetensi Pekerjaan Umum Wilayah VIV Surabaya</a>
                                                         </div>
                                                         <br>
                                                         <h1 class="badge text-center badge-dark badge-ringkasan mt-auto">RINGKASAN - Monitoring Pelaksanaan Pelatihan</h1>
