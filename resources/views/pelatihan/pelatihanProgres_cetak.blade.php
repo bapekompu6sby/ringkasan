@@ -80,7 +80,7 @@
       <div class="heading" style="text-align: center; margin-left: 10px;">
         <h4 style="margin-top: 20px;">KEMENTERIAN PEKERJAAN UMUM</h4>
         <h4 style="margin-top: -20px;font-weight:normal">BADAN PENGEMBANGAN SUMBER DAYA MANUSIA</h4>
-        <h4 style="margin-top: -20px;">BALAI PENGEMBANGAN KOMPETENSI PEKERJAAN UMUM WILAYAH IV SURABAYA</h4>
+        <h4 style="margin-top: -20px;">BALAI PENGEMBANGAN KOMPETENSI PEKERJAAN UMUM WILAYAH VI SURABAYA</h4>
         <h6 style="margin-top: -20px;font-weight:normal">Jalan Gayung Kebonsari 48, Gayungan, Surabaya 60234, Telepon (031) 8291040, 8286501 Faksimili 8275847</h6>
       </div>
     </div>
@@ -141,7 +141,7 @@
         </p>
         <p style="line-height:1.5;text-align:center;">Kepala Seksi Penyelenggara 
           <br>
-          Balai Kompetensi Pekerjaan Umum Wilayah IV Surabaya</p>
+          Balai Kompetensi Pekerjaan Umum WILAYAH VI Surabaya</p>
         </p>
         <p style="margin-top: 100px;text-align:center;">.......................................</p>
         <p style="margin-top: -20px;text-align:center;">NIP. 123456789</p>
