@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/bapm2355/public_html/ringkasanstaging.bapekom6sby.com/
+    - /bin/cp -R images $DEPLOYPATH
