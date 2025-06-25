@@ -141,7 +141,7 @@
         </p>
         <p style="line-height:1.5;text-align:center;">Kepala Seksi Penyelenggara 
           <br>
-          Balai Kompetensi Pekerjaan Umum WILAYAH VIV Surabaya</p>
+          Balai Kompetensi Pekerjaan Umum WILAYAH VI Surabaya</p>
         </p>
         <p style="margin-top: 100px;text-align:center;">.......................................</p>
         <p style="margin-top: -20px;text-align:center;">NIP. 123456789</p>
