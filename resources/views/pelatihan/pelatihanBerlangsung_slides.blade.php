@@ -115,7 +115,7 @@
 
                             @foreach ($pelatihans as $pelatihan)
                                 @if ($loop->first)
-                                    <div class="carousel-item active" data-bs-interval="2000">
+                                    <div class="carousel-item active" data-bs-interval="10000">
                                         <div class="card">
                                             <div class="app-auth-container-slides" style="width: 100%">
                                                 <div class="row d-flex justify-content-between">
@@ -192,7 +192,7 @@
                                         </div>
                                     </div>
                                 @else
-                                    <div class="carousel-item" data-bs-interval="2000">
+                                    <div class="carousel-item" data-bs-interval="10000">
                                         <div class="card">
                                             <div class="app-auth-container-slides" style="width: 100%">
                                                     <div class="row d-flex justify-content-between">
